@@ -1,0 +1,1 @@
+# functions to convert workout into Garmin-friendly format

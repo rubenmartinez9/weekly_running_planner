@@ -1,0 +1,1 @@
+# functions to analyse new weekly planning and past sessions
